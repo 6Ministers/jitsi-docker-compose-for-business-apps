@@ -44,7 +44,7 @@ cd jitsi
 
 Download Jitsi `.env`:
 ``` bash
-wget https://github.com/6Ministers/jitsi-docker-compose-for-business-apps/blob/master/.env
+wget  https://raw.githubusercontent.com/6Ministers/jitsi-docker-compose-for-business-apps/master/.env
 ```
 
 In the configuration file `.env`, set the following parameters:
