@@ -19,7 +19,7 @@ sudo apt-get purge needrestart
 Install docker and docker-compose:
 
 ``` bash
-curl -s https://raw.githubusercontent.com/6Ministers/taiga-io-docker-compose-for-projects/master/setup.sh | sudo bash -s
+curl -s https://raw.githubusercontent.com/6Ministers/jitsi-docker-compose-for-business-apps/master/setup.sh | sudo bash -s
 ```
 
 If `curl` is not found, install it:
