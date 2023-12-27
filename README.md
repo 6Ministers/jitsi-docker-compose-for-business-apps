@@ -79,7 +79,7 @@ docker-compose up -d
 docker-compose up -d
 ```
 
-Then open `https://jitsi.domain.com:` to access Taiga
+Then open `https://jitsi.domain.com:` to access Jitsi
 
 
 ## Jitsi container management
@@ -110,3 +110,8 @@ docker-compose down
 
 ## Documentation
 
+https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-docker/
+
+https://github.com/jitsi/docker-jitsi-meet/blob/master/env.example
+
+https://linuxhandbook.com/self-host-jitsi-meet/
