@@ -70,7 +70,6 @@ ENABLE_HSTS=1
 and other...
 
 ``` bash
-cd /srv/jitsi/
 docker-compose up -d
 ```
 
