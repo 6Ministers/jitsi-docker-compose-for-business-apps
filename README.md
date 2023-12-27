@@ -69,10 +69,6 @@ ENABLE_HSTS=1
 ```
 and other...
 
-``` bash
-docker-compose up -d
-```
-
 **Run Jitsi:**
 
 ``` bash
